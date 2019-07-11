@@ -110,7 +110,7 @@
     "webpack-dashboard": "^0.2.1",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.9.1",
-    "yargs": "^4.7.1"
+    "yargs": "^13.2.4"
   },
   "xo": {
     "esnext": true,
