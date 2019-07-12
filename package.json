@@ -105,7 +105,7 @@
     "rimraf": "^2.5.2",
     "sass-loader": "^3.2.0",
     "stack-source-map": "^1.0.4",
-    "style-loader": "^0.13.1",
+    "style-loader": "^0.23.1",
     "webpack": "^1.9.11",
     "webpack-dashboard": "^0.2.1",
     "webpack-dev-middleware": "^1.2.0",
