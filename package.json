@@ -101,7 +101,7 @@
     "react-infinite": "^0.9.2",
     "react-tiny-virtual-list": "^2.0.1",
     "react-virtualized": "^9.2.2",
-    "redux": "^3.5.2",
+    "redux": "^4.0.4",
     "rimraf": "^2.5.2",
     "sass-loader": "^3.2.0",
     "stack-source-map": "^1.0.4",
